@@ -9,3 +9,5 @@
  4.
  a) Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modro tipko na STM32L1? ob pritisku modre tipke prižgemo ali ugasnemo zeleno LED modra led pa še naprej utripa. 
  b) Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj? Pritisk na modro tipko ne vpliva na utripanje modre LED.
+
+KOMENTAR NA DELOVANJE: Modra LED vedno utripa, s pomočjo interrupta pa lahko prižgemo zeleno LED s modro tipko.
